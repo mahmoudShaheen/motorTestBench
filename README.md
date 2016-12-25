@@ -8,6 +8,8 @@ Characteristics we aim to identify are current running in motor (in Amps), Volta
 
 Of course these Characteristics are measured for both motors.
 
+more details are available in documentation file 'documentation.pdf'.
+
 Project by:
 
 Anas Khedr
